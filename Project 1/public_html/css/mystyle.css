@@ -1,0 +1,118 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Jul, 2016, 5:42:24 PM
+    Author     : garima
+*/
+
+body {
+    background-color: #f8f8f8;
+}
+
+.header-icons {
+    margin: 20px;
+}
+
+.user-icon {
+    float: left;
+    display: inline-block;
+}
+
+#customer-name {
+    background-color: blue;
+    margin: 10px; 
+    padding: 10px;
+    color: white;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -khtml-border-radius: 60px;
+    border-radius: 60px;
+}
+
+.user-name {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.navbar-nav > li {
+    border-left: 1px solid #bbb;
+}
+
+.navbar-default {
+    background-color: white;
+}
+
+.small-font {
+    font-size: 10px;
+    float: right;
+}
+
+.panel-default {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -khtml-border-radius: 0;
+    border-radius: 0;
+}
+
+.panel-default > .panel-heading {
+    background-color: white;
+    text-align: center;
+    min-height: 75px;
+}
+
+td {
+    padding-bottom: 5px;
+}
+
+.text-muted {
+    font-size: 10px;
+    color: #aaaaaa;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-primary {
+    color: #1166ee;
+}
+
+.big-300 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 300%;
+}
+
+.big-150 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;
+}
+
+.big-200 {
+    font-size: 200%;
+}
+
+.small {
+    font-size: 90%;
+}
+
+a {
+    text-decoration: underline;
+}
+
+.pageFooter {
+    background-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-bottom: 0;
+    border-right: 0;
+}
+
+.pageFooter > span {
+    padding-right: 5px;
+    padding-left:  5px;
+    color: grey;
+}

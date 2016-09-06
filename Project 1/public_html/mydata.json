@@ -1,0 +1,125 @@
+[{
+	"companyID": 0,
+	"companyLogo": "images/logo1.png",
+	"companyName": "COMPANY1",
+	"website": "http://www.company1.com",
+	"lastUpdated": "Mar 31",
+	"tickets": 10,
+	"severity1": {
+		"count": 2,
+		"issue1": "This is issue one",
+		"issue2": "This is issue two"
+	},
+	"severity2": 1,
+	"assets": 57,
+	"alerts": 49,
+	"establishedIn": 2001,
+	"address": "Pune",
+	"companyCeo": "Mr. XYZ"
+}, {
+	"companyID": 1,
+	"companyLogo": "images/logo2.png",
+	"companyName": "COMPANY 2",
+	"website": "http://www.company2.com",
+	"lastUpdated": "Mar 31",
+	"tickets": 15,
+	"severity1": {
+		"count": 5,
+		"issue1": "This is issue one",
+		"issue2": "This is issue two",
+		"issue3": "This is issue three",
+		"issue4": "This is issue four",
+		"issue5": "This is issue five"
+	},
+	"severity2": 2,
+	"assets": 46,
+	"alerts": 39,
+	"establishedIn": 1990,
+	"address": "Mumbai",
+	"companyCeo": "Mr. ABC"
+}, {
+	"companyID": 2,
+	"companyLogo": "images/logo3.png",
+	"companyName": "COMPANY 3",
+	"website": "http://in.company3.com",
+	"lastUpdated": "Mar 31",
+	"tickets": 20,
+	"severity1": {
+		"count": 8,
+		"issue1": "This is issue one",
+		"issue2": "This is issue two",
+		"issue3": "This is issue three",
+		"issue4": "This is issue four",
+		"issue5": "This is issue five",
+		"issue6": "This is issue six",
+		"issue7": "This is issue seven",
+		"issue8": "This is issue eight"
+	},
+	"severity2": 5,
+	"assets": 45,
+	"alerts": 26,
+	"establishedIn": 2010,
+	"address": "Gurgaon",
+	"companyCeo": "Mr. DEF"
+}, {
+	"companyID": 3,
+	"companyLogo": "images/logo4.png",
+	"companyName": "COMPANY 4",
+	"website": "http://www.company4.com",
+	"lastUpdated": "Mar 31",
+	"tickets": 22,
+	"severity1": {
+		"count": 3,
+		"issue1": "This is issue one",
+		"issue2": "This is issue two",
+		"issue3": "This is issue three"
+	},
+	"severity2": 2,
+	"assets": 46,
+	"alerts": 49,
+	"establishedIn": 2002,
+	"address": "Banglore",
+	"companyCeo": "Mr. GHI"
+}, {
+	"companyID": 4,
+	"companyLogo": "images/logo5.png",
+	"companyName": "COMPANY 5",
+	"website": "http://www.company5.com",
+	"lastUpdated": "Mar 31",
+	"tickets": 15,
+	"severity1": {
+		"count": 5,
+		"issue1": "This is issue one",
+		"issue2": "This is issue two",
+		"issue3": "This is issue three",
+		"issue4": "This is issue four",
+		"issue5": "This is issue five"
+	},
+	"severity2": 2,
+	"assets": 57,
+	"alerts": 39,
+	"establishedIn": 1995,
+	"address": "Mumbai",
+	"companyCeo": "Mr. MNO"
+}, {
+	"companyID": 5,
+	"companyLogo": "images/logo6.png",
+	"companyName": "COMPANY 6",
+	"website": "http://www.company6.in",
+	"lastUpdated": "Mar 31",
+	"tickets": 15,
+	"severity1": {
+		"count": 5,
+		"issue1": "This is issue one",
+		"issue2": "This is issue two",
+		"issue3": "This is issue three",
+		"issue4": "This is issue four",
+		"issue5": "This is issue five"
+	},
+	"severity2": 2,
+	"assets": 57,
+	"alerts": 39,
+	"establishedIn": 1992,
+	"address": "Delhi",
+	"companyCeo": "Mr. LMN"
+}]
